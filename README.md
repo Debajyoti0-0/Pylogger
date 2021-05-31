@@ -6,7 +6,7 @@ PyLogger is simple and powerful Python keylogger that is able to log keystrokes,
 `git clone https://github.com/Debajyoti0-0/Pylogger.git `
 
 2. Run it:
-`python PyLogger.py`
+`python3 PyLogger.py`
 
 
 *You can also convert PyLogger to EXE using PyInstaller or any similar tool.*
